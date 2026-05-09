@@ -24,10 +24,5 @@ Open Source
 
 
 ## Contact Me:
-```
-Email:
-nichitabazan1@gmail.com
-
-Instagram:
-https://www.instagram.com/nichitaofficial.010/
-```
+[Email](mailto:nichitabazan1@gmail.com) •
+[Instagram](https://www.instagram.com/nichitaofficial.010/)
