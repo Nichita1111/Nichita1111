@@ -1,4 +1,4 @@
-## Life
+## About Me
 
 ```cpp
 while(alive) {
@@ -11,20 +11,24 @@ while(alive) {
 
 Minimalist developer focused on cybersecurity, low-level systems and Linux environments.
 
+## Curent Goal
+
+Learning low-level programming and cybersecurity.
+
 ## Stack
-C++
-Python
-Linux
+
+- C++
+- Python
+- Linux
 
 ## Interests
-Pentesting
-Networking
-System Programming
-Open Source
+
+-Pentesting
+-Networking
+-System Programming
+-Open Source
 
 
 ## Contact Me:
-
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:nichitabazan1@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/nichitaofficial.010/)
+- [Email](mailto:nichitabazan1@gmail.com)
+- [Instagram](https://www.instagram.com/nichitaofficial.010/)
