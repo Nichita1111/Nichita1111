@@ -9,6 +9,7 @@ Learning low-level programming and cybersecurity.
 - C++
 - Python
 - Linux
+- Bash
 
 ## Interests
 
