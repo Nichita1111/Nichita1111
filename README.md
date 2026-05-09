@@ -1,5 +1,6 @@
 ## Life
 
+```cpp
 while(alive) {
     study("C++");
     study("Python");
