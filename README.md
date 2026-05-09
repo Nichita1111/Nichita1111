@@ -24,5 +24,7 @@ Open Source
 
 
 ## Contact Me:
-[Email](mailto:nichitabazan1@gmail.com) •
-[Instagram](https://www.instagram.com/nichitaofficial.010/)
+
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:nichitabazan1@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/nichitaofficial.010/)
