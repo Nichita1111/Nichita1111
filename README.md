@@ -1,6 +1,6 @@
-## About Me
+## About
 
-Minimalist developer focused on cybersecurity, low-level systems and Linux environments.
+Minimalist developer focused on cybersecurity, low-level systems and Linux.
 
 Learning low-level programming and cybersecurity.
 
@@ -12,12 +12,12 @@ Learning low-level programming and cybersecurity.
 
 ## Interests
 
--Pentesting
--Networking
--System Programming
--Open Source
+- Pentesting
+- Networking
+- System Programming
+- Open Source
 
+## Contact
 
-## Contact Me:
 - [Email](mailto:nichitabazan1@gmail.com)
 - [Instagram](https://www.instagram.com/nichitaofficial.010/)
