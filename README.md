@@ -1,17 +1,6 @@
 ## About Me
 
-```cpp
-while(alive) {
-    study("C++");
-    study("Python");
-    study("Linux");
-    study("Pentesting");
-}
-```
-
 Minimalist developer focused on cybersecurity, low-level systems and Linux environments.
-
-## Curent Goal
 
 Learning low-level programming and cybersecurity.
 
