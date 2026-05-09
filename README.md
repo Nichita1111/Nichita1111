@@ -7,7 +7,7 @@ while(alive) {
     study("Linux");
     study("Pentesting");
 }
-
+```
 ## Contact Me:
 Email:
 nichitabazan1@gmail.com
