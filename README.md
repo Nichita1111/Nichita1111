@@ -52,6 +52,6 @@ Learning low-level programming and cybersecurity.
 </a>
 
 <a href="mailto:nichitabazan1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
