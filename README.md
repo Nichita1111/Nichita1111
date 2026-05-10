@@ -37,7 +37,14 @@ Learning low-level programming and cybersecurity.
 - System Programming
 - Open Source
 
-## <p align="center">Contact</p>
+## <p align="center">Reach Me On</p>
 
-- [Email](mailto:nichitabazan1@gmail.com)
-- [Instagram](https://www.instagram.com/nichitaofficial.010/)
+<p align="center">
+  <a href="mailto:nichitabazan1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/nichitaofficial.010/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
