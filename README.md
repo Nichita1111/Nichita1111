@@ -4,7 +4,7 @@ Minimalist developer focused on cybersecurity, low-level systems and Linux.
 
 Learning low-level programming and cybersecurity.
 
-## Stack
+## <p align="center">Stack</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -13,7 +13,7 @@ Learning low-level programming and cybersecurity.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## Languages & Tools I Have Placed My Hands On
+## <p align="center">Languages & Tools I Have Placed My Hands On</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -30,14 +30,14 @@ Learning low-level programming and cybersecurity.
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## Interests
+## <p align="center">Interests</p>
 
 - Pentesting
 - Networking
 - System Programming
 - Open Source
 
-## Contact
+## <p align="center">Contact</p>
 
 - [Email](mailto:nichitabazan1@gmail.com)
 - [Instagram](https://www.instagram.com/nichitaofficial.010/)
