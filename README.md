@@ -14,7 +14,7 @@ Learning low-level programming and cybersecurity.
 ## Languages & Tools I Have Placed My Hands On
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  - <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
