@@ -2,14 +2,11 @@
 
 Minimalist developer focused on cybersecurity, low-level systems and Linux.  
 Learning low-level programming and cybersecurity.
-## <p align="center">About</p>
 
-Minimalist developer focused on cybersecurity, low-level systems and Linux.  
-Learning low-level programming and cybersecurity.  
 
 <p align="center">
   <a href="https://nichita1111.github.io" target="_blank" rel="noopener noreferrer">
-    Personal website
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
