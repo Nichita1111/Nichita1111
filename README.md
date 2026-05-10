@@ -26,19 +26,19 @@ Learning low-level programming and cybersecurity.
 ## <p align="center">Stack</p>
 
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
 
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
 
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 </p>
@@ -49,43 +49,43 @@ Learning low-level programming and cybersecurity.
 
 <p align="center">
 
-  <a href="https://archlinux.org/" target="_blank">
+  <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   </a>
 
-  <a href="https://neovim.io/" target="_blank">
+  <a href="https://neovim.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" />
   </a>
 
-  <a href="https://fedoraproject.org/" target="_blank">
+  <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
   </a>
 
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   </a>
 
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 
-  <a href="https://isocpp.org/" target="_blank">
+  <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   </a>
 
-  <a href="https://www.mozilla.org/firefox/" target="_blank">
+  <a href="https://www.mozilla.org/firefox/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
 
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </a>
 
-  <a href="https://www.linux.org/" target="_blank">
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </a>
 
