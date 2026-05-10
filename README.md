@@ -1,4 +1,4 @@
-## About
+## <p align="center">About</p>
 
 Minimalist developer focused on cybersecurity, low-level systems and Linux.
 
