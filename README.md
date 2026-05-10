@@ -39,16 +39,34 @@ Learning low-level programming and cybersecurity.
 
 ## <p align="center">Reach Me On</p>
 
-<p align="center">
-  <a href="mailto:nichitabazan1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<h3 align="center">Contact</h3>
 
-  <a href="https://www.instagram.com/nichitaofficial.010/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<table align="center" cellspacing="10">
+  <tr>
+    <td align="center">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nichitabazan1@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
 
-  <a href="https://discord.com/users/nichita9871">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
+    <td align="center">
+      <a href="https://discord.com/users/nichita9871">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/nichitaofficial.010/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="mailto:nichitabazan1@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
