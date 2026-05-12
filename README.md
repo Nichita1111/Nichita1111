@@ -5,8 +5,8 @@ Learning low-level programming and cybersecurity.
 
 
 <p align="center">
-  <a href="https://nichita1111.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-nichita.bazan.dev-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://nichita.my.id" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-nichita.my.id-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
